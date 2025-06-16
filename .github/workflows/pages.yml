@@ -3,11 +3,13 @@ name: Deploy VuePress to GitHub Pages
 on:
   push:
     branches:
-      - master   
+      - master
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      NODE_OPTIONS: '--openssl-legacy-provider'
 
     steps:
       - name: Checkout repository
