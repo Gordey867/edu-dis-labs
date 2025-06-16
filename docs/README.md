@@ -9,11 +9,7 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **Виконали:** 
 
-*студенти [X]-го курсу, групи (шифр групи)* 
-
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
-
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+*студент 2-го курсу, групи (IО-35)*<span padding-right:5em></span> **Ілля Гордєєв [[illia.gordeyev@gmail.com](), [https://t.me/gordey867]()]**
 
 
 **Керівник**
